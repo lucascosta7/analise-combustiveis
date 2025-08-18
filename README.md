@@ -24,7 +24,7 @@ Para esse projeto, eu decidi utilizar o PySpark por que é mais rápido e mais p
 - Integração com o ecossistema Spark.
 - Flexibilidade.
 
-Além dessas considerações, também adotei algumas boas práticas, como comentários para "identificar" o que um determinado comando faz (por exemplo para importar os dados da base de dados), também deixei os códigos das análises "separados" para ficar mais legível e fácil de entender o que cada comando faz. Com essas práticas, acredito que deixou o projeto melhor e fácil de absorver, evitando que o leitor se perca e não consiga entender o código.
+Além dessas considerações, também adotei algumas boas práticas, como comentários para "identificar" o que um determinado comando faz (por exemplo para importar os dados da base de dados), também deixei os códigos das análises "separados" para ficar mais legível e fácil de entender o que cada comando efetua, priorizando sempre a boa legibilidade do código. Com essas práticas, acredito que deixou o projeto melhor e fácil de absorver, evitando que o leitor se perca e não consiga entender o código.
 
 ## 📎 Dataset
 O dataset utilizado foi `precos-gasolina-etanol-10.csv`, com dados sobre os preços dos combustíveis por estado e municipio.
