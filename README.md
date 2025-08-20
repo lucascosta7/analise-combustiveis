@@ -16,7 +16,7 @@ Criar um pipeline simples de análise de dados usando PySpark para extrair insig
 - Preço médio por combustível em um único estado.
 - Coletas de preços foram registradas por município
 
-## 💡Justificativa Técnica
+## 💡 Justificativa Técnica
 Para esse projeto, eu decidi utilizar o PySpark por que é mais rápido e mais prático de utilizar do que outros frameworks (como o Pandas), por combinar Apache Spark com Python, basicamente tudo fica mais fácil para realizar análises de dados concretos. Dito isso, trouxe aqui algumas vantagens do PySpark:
 
 - Processamento de grandes volumes de dados.
