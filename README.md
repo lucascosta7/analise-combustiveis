@@ -16,7 +16,7 @@ Uma análise de dados sobre os preços de combustíveis no Brasil utilizando dad
 
 > Dashboard principal com cards de preços, gráfico por estado e filtro por combustível.
 
-![Dashboard](docs/screenshot.png)
+![Dashboard](image.png)
 
 ---
 
